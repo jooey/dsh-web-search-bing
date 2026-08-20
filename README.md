@@ -78,8 +78,8 @@ pnpm add dsh-web-search-bing
 
 | 插件 | 说明 |
 |---|---|
-| [`dsh-web-search-strategy`](https://npmjs.com/package/dsh-web-search-strategy) | 把 bing 排进 fallback 链或并行组，带策略面板 |
-| [`dsh-web-search-tavily-pool`](https://npmjs.com/package/dsh-web-search-tavily-pool) | 高质量主力源 + 多 Key 池管理 |
+| [`dsh-web-search-strategy`](https://github.com/jooey/dsh-web-search-strategy) | 把 bing 排进 fallback 链或并行组，带策略面板 |
+| [`dsh-web-search-tavily-pool`](https://github.com/jooey/dsh-web-search-tavily-pool) | 高质量主力源 + 多 Key 池管理 |
 
 ## License
 
